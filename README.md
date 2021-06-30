@@ -4,9 +4,7 @@ Gap Widget Vertical Gap and Horizontal Gap to rid out of write SizedBox
 
 ## Add Dependency 
     dependencies:
-        gap_widget:
-        git:
-          url: git://github.com/shmehdi01/gap_widget
+        gap_widget: ^0.0.1
 
 
 ## Example
